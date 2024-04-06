@@ -42,15 +42,16 @@ This project is licensed under ISC license.
 
 ## Acknowledgements
 ### Libraries and Frameworks
-- Back End:
+
+### Back End:
 - Express.js
 - Sequelize
 - pg
 - dotenv
 - node.js
 
-- Database:
+### Database:
 - PostgreSQL
 
-- Other Applications:
+### Other Applications:
 - Insomnia
